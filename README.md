@@ -1,7 +1,7 @@
 
 ## Autor
 
-- [@Mayquios](https://github.com/Mayquios)
+- [@marcosyana](https://github.com/marcosyana)
 
 
 # Logica de Programacion
