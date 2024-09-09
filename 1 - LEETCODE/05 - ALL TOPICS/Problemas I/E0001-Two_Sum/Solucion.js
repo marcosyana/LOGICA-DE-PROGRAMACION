@@ -5,6 +5,7 @@
 
 // ! Primera Solucion
 
+// inicio leetcode
 const twoSum = function (nums, target){
     const numArray = new Map();
     for (let i = 0; i < nums.length; i++) {
@@ -16,6 +17,7 @@ const twoSum = function (nums, target){
         numArray.set(almacena, i);
     }
 }
+//fin leetcode
 
 // ? Verificamos en consola
 
