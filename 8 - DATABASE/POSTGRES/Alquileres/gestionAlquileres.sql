@@ -70,14 +70,14 @@ CREATE TABLE agencia (
 
 --Insertamos Datos en Propietario
 INSERT INTO propietario (NIF, Nombre, telefono, direccion, email)
-    VALUES ('12345678A', 'Alison Nayeli', '78552415', 'pampahasi, La Paz', 'alison@mail.com');
+    VALUES ('12345678A', 'Carolina', '78552415', 'Miraflores, La Paz', 'carolina@mail.com');
 --Consultas de Propietario  
 SELECT * FROM propietario;
 
 
 --Insertamos Datos en Agencia
 INSERT INTO agencia (CIF, Direccion, nom_agencia)
-    VALUES ('B12345678', 'Calle las Lomas, Bolivia', 'Agencia Paulsen');
+    VALUES ('B12345678', 'Calle las Lomas, Bolivia', 'Agencia villa Victoria');
 --Consultas de Agencia
 SELECT * FROM agencia;
 
