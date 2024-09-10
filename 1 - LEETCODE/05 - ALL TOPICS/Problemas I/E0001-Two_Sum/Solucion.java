@@ -22,6 +22,8 @@ class Solution {
     }
 }
 
+// ? Verificamos en consola
+
 public class Main {
     public static void main(String[] args) {
         Solution solution = new Solution();
