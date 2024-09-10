@@ -1,4 +1,4 @@
 
 
-> git config user.name "Mayqui Paulsen"
-> git config user.email "mayqui.ospy@gmail.com"
+> git config user.name "Marcos Yana"
+> git config user.email "marcosyana01@gmail.com"
