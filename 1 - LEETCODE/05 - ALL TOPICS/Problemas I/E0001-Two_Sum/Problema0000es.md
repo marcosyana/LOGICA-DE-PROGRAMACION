@@ -10,7 +10,6 @@ Puedes devolver la respuesta en cualquier orden.
 
 > Ejemplo 1:
 
-Ejemplo 1:
 
 Entrada: nums = [2,7,11,15], target = 9
  Salida: [0,1]
